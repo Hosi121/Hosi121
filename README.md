@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stren@Hosi121
 - 👀 I’m interested in mathematics, especially number theory.
 - 🌱 I’m currently learning informatic.
-
+![my_atcoder_rating](https://badgen.org/img/atcoder/moonstep/rating/algorithm?style=flat)
 - <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/moonstep/rating/algorithm?style=flat">
 
 <!---
