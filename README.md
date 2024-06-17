@@ -6,17 +6,20 @@
 
 # Language
 
-## AtCoder, Codeforces
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,go,typescript)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
-
-## Machine Learning
+# Framework
   
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch, react, nodejs)](https://skillicons.dev)
 
-## Frontend
+## Tool
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim, vscode)](https://skillicons.dev)
+
+## Communication
+
+[![My Skills](https://skillicons.dev/icons?i=github, discord)](https://skillicons.dev)
+
 
 <!---
 Hosi121/Hosi121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
