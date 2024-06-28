@@ -10,15 +10,15 @@
 
 # Framework
   
-[![My Skills](https://skillicons.dev/icons?i=pytorch, react, nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,react,nodejs)](https://skillicons.dev)
 
 ## Tool
 
-[![My Skills](https://skillicons.dev/icons?i=neovim, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
 
 ## Communication
 
-[![My Skills](https://skillicons.dev/icons?i=github, discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
 
 <!---
