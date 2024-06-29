@@ -6,7 +6,7 @@
 
 # Language
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,go,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,go,typescript,rust)](https://skillicons.dev)
 
 # Framework
   
