@@ -1,6 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hosi121)](https://github.com/anuraghazra/github-readme-stats)
+# Github-Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hosi121)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Hosi121&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
+# Stats
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Hosi121&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hosi121&layout=compact" />
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hosi121&theme=transparent)
 
