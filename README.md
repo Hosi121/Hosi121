@@ -21,14 +21,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=pytorch,react,nodejs,docker)](https://skillicons.dev)
 
-## Tool
-
-[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
-
-## Communication
-
-[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
-
 
 <!---
 Hosi121/Hosi121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
