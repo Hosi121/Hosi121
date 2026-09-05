@@ -15,17 +15,6 @@ Feel free to connect via one of the links below:
 ## GitHub Metrics
 
 <a href="https://github.com/Hosi121">
-  <img align="center" width="49%" src="./header.svg" alt="GitHub overview" />
-</a>
-<br />
-<a href="https://github.com/Hosi121">
-  <img align="center" width="49%" src="./repositories.svg" alt="Repository statistics" />
-</a>
-<a href="https://github.com/Hosi121">
-  <img align="center" width="49%" src="./acti_comm.svg" alt="Activity and community statistics" />
-</a>
-
-<a href="https://github.com/Hosi121">
   <img align="center" width="49%" src="./iso_calender.svg" alt="Isometric commit calendar" />
 </a>
 <a href="https://github.com/Hosi121">
