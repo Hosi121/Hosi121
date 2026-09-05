@@ -11,3 +11,30 @@ Feel free to connect via one of the links below:
 - [Qiita](https://qiita.com/Hosi121)
 - [LinkedIn](https://www.linkedin.com/in/takuya-kataiwa-774762349/)
 - [X](https://x.com/jirava_t)
+
+## GitHub Metrics
+
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./header.svg" alt="GitHub overview" />
+</a>
+<br />
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./repositories.svg" alt="Repository statistics" />
+</a>
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./acti_comm.svg" alt="Activity and community statistics" />
+</a>
+
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./iso_calender.svg" alt="Isometric commit calendar" />
+</a>
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./issue_pr_lang.svg" alt="Issues, pull requests, and languages" />
+</a>
+
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./github-habits.svg" alt="Coding habits" />
+</a>
+<a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./achievements.svg" alt="GitHub achievements" />
+</a>
