@@ -22,7 +22,7 @@ Feel free to connect via one of the links below:
 </a>
 
 <a href="https://github.com/Hosi121">
-  <img align="center" width="49%" src="./github-habits.svg" alt="Coding habits" />
+  <img align="center" width="49%" src="./code-profile.svg" alt="Languages and code changes" />
 </a>
 <a href="https://github.com/Hosi121">
   <img align="center" width="49%" src="./achievements.svg" alt="GitHub achievements" />
