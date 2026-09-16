@@ -20,6 +20,9 @@ Feel free to connect via one of the links below:
       <img width="480" src="./issue_pr_lang.svg" alt="Issues, pull requests, and languages" />
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/espressif/esp-dl"><img width="480" src="./repo-esp-dl.svg" alt="espressif/esp-dl — OSS contributor" /></a><br />
