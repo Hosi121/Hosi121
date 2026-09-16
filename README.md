@@ -22,5 +22,8 @@ Feel free to connect via one of the links below:
 </a>
 
 <a href="https://github.com/Hosi121">
+  <img align="center" width="49%" src="./featured-repositories.svg" alt="Featured repositories" />
+</a>
+<a href="https://github.com/Hosi121">
   <img align="center" width="49%" src="./achievements.svg" alt="GitHub achievements" />
 </a>
