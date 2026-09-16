@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="180" viewBox="0 0 480 180" role="img" aria-labelledby="title">
+  <title id="title">Poietra/qual — Creator</title>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}.name{fill:#0969da;font-size:20px;font-weight:600}.meta{font-size:13px}@media(prefers-color-scheme:dark){text{fill:#9198a1}.name{fill:#58a6ff}}</style>
+  <rect x="8" y="8" width="464" height="164" rx="6" fill="none" stroke="#88888855"/>
+  <text x="26" y="39" class="meta">Creator</text>
+  <text x="26" y="73" class="name">Poietra/qual</text>
+  <text x="26" y="107" font-size="14">A Manim-aware linter that catches render-time</text>
+  <text x="26" y="129" font-size="14">errors and visual bugs before you render.</text>
+  <circle cx="31" cy="152" r="5" fill="#dea584"/>
+  <text x="43" y="157" class="meta">Rust / Python</text>
+  <text x="262" y="157" class="meta">☆ 2 · MIT</text>
+</svg>
