@@ -62,7 +62,18 @@ for (const [file,options] of jobs) {
   if (!result.rendered || result.errors?.length || /NaN/.test(result.rendered)) throw new Error(`Generation failed: ${file}: invalid data or ${JSON.stringify(result.errors)}`);
   // Metrics labels the authenticated repository total as public even when it
   // includes private repositories. Keep the count, correct the label.
-  outputs.push([file,result.rendered.replace(/Published (\d+) public repositories/g,'Created $1 repositories')]);
+  const rendered = result.rendered
+    .replace(/Published (\d+) public repositories/g,'Created $1 repositories')
+    .replace(/<svg\b[^>]*>/, tag => {
+      // Keep foreignObject layout at its generated width when GitHub scales
+      // the image. Reserve room for font fallback and wrapped legends.
+      const width = Number(tag.match(/\bwidth="(\d+)"/)[1]);
+      const height = Number(tag.match(/\bheight="(\d+)"/)[1]) + 48;
+      return tag.replace(/\sviewBox="[^"]*"/,'')
+        .replace(/\bheight="\d+"/,`height="${height}"`)
+        .replace(/>$/,` viewBox="0 0 ${width} ${height}">`);
+    });
+  outputs.push([file,rendered]);
 }
 for (const [file,rendered] of outputs) {
   await writeFile(new URL(file,import.meta.url),rendered);
