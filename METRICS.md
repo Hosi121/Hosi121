@@ -26,6 +26,6 @@ Counts reflect the API data available to the authenticated account, including
 accessible private repository aggregates; they are not public-only totals.
 Repository names from private projects are not intentionally displayed.
 
-The two linked repository cards are separately maintained SVGs. Their star
-and fork counts are snapshots too. Check their text and layout, as well as the
-generated SVGs, before committing and pushing a refresh.
+The two linked repository introductions are separately maintained SVGs with
+transparent backgrounds and no statistics. Check their text and layout, as
+well as the generated SVGs, before committing and pushing a refresh.
