@@ -1,9 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="204" viewBox="0 0 480 204" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="128" viewBox="0 0 480 128" role="img" aria-labelledby="title desc">
   <title id="title">espressif/esp-dl — OSS contributor</title>
-  <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a}.name{fill:#0969da;font-size:18px;font-weight:600}.role{font-size:12px;fill:#6e7781}@media(prefers-color-scheme:dark){text,.role{fill:#9198a1}.name{fill:#58a6ff}}</style>
-  <text x="16" y="42" class="name">espressif/esp-dl</text>
-  <text x="16" y="67" class="role">OSS contributor</text>
-  <text x="16" y="103" font-size="14">Deep learning for Espressif microcontrollers.</text>
-  <text x="16" y="135" class="role">C++ / C / Python</text>
-  <text x="16" y="157" class="role">1,144 stars · 226 forks · MIT</text>
+  <desc id="desc">Deep learning for Espressif microcontrollers. C++, C, Python. 1,144 stars, 226 forks. MIT license.</desc>
+  <style>text{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif;fill:#57606a;font-size:13px}.name{fill:#0969da;font-size:17px;font-weight:600}.meta{font-size:12px;fill:#6e7781}.icon{fill:none;stroke:#6e7781;stroke-width:1.3;stroke-linecap:round;stroke-linejoin:round}@media(prefers-color-scheme:dark){text,.meta{fill:#9198a1}.name{fill:#58a6ff}.icon{stroke:#9198a1}}</style>
+  <text x="16" y="28" class="name">espressif/esp-dl</text>
+  <text x="220" y="28" class="meta">OSS contributor</text>
+  <text x="16" y="54">Deep learning for Espressif microcontrollers.</text>
+  <circle cx="20" cy="101" r="4" fill="#f34b7d"/><text x="31" y="105" class="meta">C++</text>
+  <circle cx="78" cy="101" r="4" fill="#555555"/><text x="89" y="105" class="meta">C</text>
+  <circle cx="120" cy="101" r="4" fill="#3572a5"/><text x="131" y="105" class="meta">Python</text>
+  <g transform="translate(216 93)" class="icon"><path d="m8 1 2.1 4.3 4.7.7-3.4 3.3.8 4.7L8 11.8 3.8 14l.8-4.7L1.2 6l4.7-.7Z"/></g>
+  <text x="238" y="105" class="meta">1,144</text>
+  <g transform="translate(300 93)" class="icon"><circle cx="4" cy="3" r="2"/><circle cx="12" cy="3" r="2"/><circle cx="8" cy="13" r="2"/><path d="M4 5v2c0 2 4 1 4 4m4-6v2c0 2-4 1-4 4"/></g>
+  <text x="322" y="105" class="meta">226</text>
+  <text x="374" y="105" class="meta">MIT</text>
 </svg>
