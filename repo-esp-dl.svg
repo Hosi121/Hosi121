@@ -4,4 +4,6 @@
   <text x="16" y="42" class="name">espressif/esp-dl</text>
   <text x="16" y="67" class="role">OSS contributor</text>
   <text x="16" y="103" font-size="14">Deep learning for Espressif microcontrollers.</text>
+  <text x="16" y="135" class="role">C++ / C / Python</text>
+  <text x="16" y="157" class="role">1,144 stars · 226 forks · MIT</text>
 </svg>

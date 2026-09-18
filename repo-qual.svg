@@ -5,4 +5,6 @@
   <text x="16" y="67" class="role">Creator</text>
   <text x="16" y="103" font-size="14">A Manim-aware linter.</text>
   <text x="16" y="125" font-size="14">Catch visual bugs before rendering.</text>
+  <text x="16" y="157" class="role">Rust / Python</text>
+  <text x="16" y="179" class="role">2 stars · 0 forks · MIT</text>
 </svg>
