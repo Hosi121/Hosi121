@@ -1,4 +1,4 @@
-# AI-native builder — from silicon to society.
+AI-native builder — from silicon to society.
 
 I build systems that expand how we think, create, and connect. AI is both a collaborator in how I build and a core part of the products I create—from on-device intelligence to collaborative creative tools.
 
