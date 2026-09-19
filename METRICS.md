@@ -26,7 +26,7 @@ Counts reflect the API data available to the authenticated account, including
 accessible private repository aggregates; they are not public-only totals.
 Repository names from private projects are not intentionally displayed.
 
-The two linked repository introductions are separately maintained SVGs with
+The three linked repository introductions are separately maintained SVGs with
 transparent backgrounds. Their language labels, stars, forks, and licenses
 are snapshots; refresh these from the repository APIs when updating them.
 Check their text and layout, as well as the generated SVGs, before committing

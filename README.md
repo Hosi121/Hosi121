@@ -20,7 +20,8 @@ Feel free to connect via one of the links below:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/espressif/esp-dl"><img width="480" src="./repo-esp-dl.svg" alt="espressif/esp-dl — OSS contributor" /></a><br />
-      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a>
+      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a><br />
+      <a href="https://github.com/Poietra/poietra"><img width="480" src="./repo-poietra.svg" alt="Poietra/poietra — Collaborative browser motion editor, built entirely in MoonBit" /></a>
     </td>
     <td width="50%" valign="top">
       <img width="480" src="./achievements.svg" alt="GitHub achievements" />
