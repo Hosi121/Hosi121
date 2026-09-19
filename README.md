@@ -1,13 +1,18 @@
-# Hi there 👋
+# Takuya Kataiwa
 
-I’m Takuya Kataiwa, an informatics student and researcher at Shizuoka University.
+AI-native builder — from silicon to society.
 
-I explore where natural and formal languages meet, with a focus on safe and meaningful interaction between humans and AI. My interests include natural language processing, usable security, LLM security, and cognition.
+I build systems that expand how we think, create, and connect. AI is both a collaborator in how I build and a core part of the products I create—from on-device intelligence to collaborative creative tools.
 
-Feel free to connect via one of the links below:
+I’m an informatics student and researcher at Shizuoka University, exploring the intersection of language, cognition, and safe human–AI interaction.
 
-- [Portfolio](https://hosi121.github.io/portfolio/)
-- [Researchmap](https://researchmap.jp/takuyakataiwa)
+[Portfolio](https://hosi121.github.io/portfolio/) · [Researchmap](https://researchmap.jp/takuyakataiwa)
+
+## Projects
+
+- **[Poietra](https://github.com/Poietra/poietra)** — A collaborative video creation SaaS that brings teams together to turn ideas into motion, right in the browser. Built entirely in MoonBit. Won **1st place (1/260)** at a Codex hackathon for students in Japan.
+- **[ESP-DL](https://github.com/espressif/esp-dl)** — Open-source contributor to Espressif’s deep-learning library for microcontrollers, helping bring AI onto resource-constrained devices.
+- **[qual](https://github.com/Poietra/qual)** — A Manim-aware linter that catches render-time errors and visual bugs before rendering.
 
 ## GitHub Metrics
 
@@ -19,9 +24,9 @@ Feel free to connect via one of the links below:
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Poietra/poietra"><img width="480" src="./repo-poietra.svg" alt="Poietra/poietra — Collaborative video creation SaaS, built entirely in MoonBit" /></a><br />
       <a href="https://github.com/espressif/esp-dl"><img width="480" src="./repo-esp-dl.svg" alt="espressif/esp-dl — OSS contributor" /></a><br />
-      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a><br />
-      <a href="https://github.com/Poietra/poietra"><img width="480" src="./repo-poietra.svg" alt="Poietra/poietra — Collaborative browser motion editor, built entirely in MoonBit" /></a>
+      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a>
     </td>
     <td width="50%" valign="top">
       <img width="480" src="./achievements.svg" alt="GitHub achievements" />
