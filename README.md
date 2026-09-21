@@ -9,7 +9,7 @@ I’m an informatics student and researcher at Shizuoka University, exploring th
 ## Projects
 
 - **[Poietra](https://github.com/Poietra/poietra)** — A collaborative video creation SaaS that brings teams together to turn ideas into motion, right in the browser. Won **1st place (1/260)** at a Codex hackathon for students in Japan.
-- **[ESP-DL](https://github.com/espressif/esp-dl)** — Open-source contributor to Espressif’s deep-learning library for microcontrollers, helping bring AI onto resource-constrained devices.
+- **Inference optimization** — Contributing to [MNN](https://github.com/alibaba/MNN) / [ESP-DL](https://github.com/espressif/esp-dl) to make on-device AI inference faster and more efficient.
 - **[qual](https://github.com/Poietra/qual)** — A Manim-aware linter that catches render-time errors and visual bugs before rendering.
 
 ## GitHub Metrics
