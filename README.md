@@ -8,9 +8,14 @@ I’m an informatics student and researcher at Shizuoka University, exploring th
 
 ## Projects
 
+### Original Projects
+
 - **[Poietra](https://github.com/Poietra/poietra)** — A collaborative video creation SaaS that brings teams together to turn ideas into motion, right in the browser. Won **1st place (1/260)** at a Codex hackathon for students in Japan.
-- **Inference optimization** — Contributing to [MNN](https://github.com/alibaba/MNN) / [ESP-DL](https://github.com/espressif/esp-dl) to make on-device AI inference faster and more efficient.
 - **[qual](https://github.com/Poietra/qual)** — A Manim-aware linter that catches render-time errors and visual bugs before rendering.
+
+### Open Source Contributions
+
+- **Inference optimization** — Contributing to [MNN](https://github.com/alibaba/MNN) / [ESP-DL](https://github.com/espressif/esp-dl) to make on-device AI inference faster and more efficient.
 
 ## GitHub Metrics
 
@@ -23,8 +28,8 @@ I’m an informatics student and researcher at Shizuoka University, exploring th
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Poietra/poietra"><img width="480" src="./repo-poietra.svg" alt="Poietra/poietra — Collaborative video creation SaaS" /></a><br />
-      <a href="https://github.com/espressif/esp-dl"><img width="480" src="./repo-esp-dl.svg" alt="espressif/esp-dl — OSS contributor" /></a><br />
-      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a>
+      <a href="https://github.com/Poietra/qual"><img width="480" src="./repo-qual.svg" alt="Poietra/qual — Creator of a Manim-aware linter" /></a><br />
+      <a href="https://github.com/espressif/esp-dl"><img width="480" src="./repo-esp-dl.svg" alt="espressif/esp-dl — OSS contributor" /></a>
     </td>
     <td width="50%" valign="top">
       <img width="480" src="./achievements.svg" alt="GitHub achievements" />
