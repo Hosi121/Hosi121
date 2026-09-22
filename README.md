@@ -15,7 +15,7 @@ I’m an informatics student and researcher at Shizuoka University, exploring th
 
 ### Open Source Contributions
 
-- **Inference optimization** — Contributing to [MNN](https://github.com/alibaba/MNN) / [ESP-DL](https://github.com/espressif/esp-dl) to make on-device AI inference faster and more efficient.
+- **Inference optimization** — Contributing to [MNN](https://github.com/alibaba/MNN) / [ESP-DL](https://github.com/espressif/esp-dl) / [tract](https://github.com/sonos/tract) to make on-device AI inference faster and more efficient.
 
 ## GitHub Metrics
 
