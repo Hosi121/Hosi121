@@ -15,7 +15,7 @@ I’m an informatics student and researcher at Shizuoka University, exploring th
 
 ### Open Source Contributions
 
-- **Inference optimization** — Contributing to [ONNX Runtime](https://github.com/microsoft/onnxruntime) (☆21,906) / [MNN](https://github.com/alibaba/MNN) (☆16,129) / [Burn](https://github.com/tracel-ai/burn) (☆15,972) / [tract](https://github.com/sonos/tract) (☆3,070) / [ESP-DL](https://github.com/espressif/esp-dl) (☆1,147) to make on-device AI inference faster and more efficient.
+- **Inference optimization** — Contributing to [ONNX Runtime](https://github.com/microsoft/onnxruntime) (☆22,080) / [MNN](https://github.com/alibaba/MNN) (☆16,221) / [Burn](https://github.com/tracel-ai/burn) (☆16,109) / [tract](https://github.com/sonos/tract) (☆3,088) / [ESP-DL](https://github.com/espressif/esp-dl) (☆1,172) to make on-device AI inference faster and more efficient.
 
 ## GitHub Metrics
 
