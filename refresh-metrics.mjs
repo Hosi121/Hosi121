@@ -52,7 +52,7 @@ conf.settings.optimize = true;
 const jobs = [
   ['iso_calender.svg',{isocalendar:true,'isocalendar.duration':'half-year'}],
   ['issue_pr_lang.svg',{followup:true,languages:true,'languages.limit':8}],
-  ['achievements.svg',{achievements:true,'config.display':'large','achievements.threshold':'B','achievements.display':'compact','achievements.limit':7,'achievements.ignored':'manager'}],
+  ['achievements.svg',{achievements:true,'config.display':'large','achievements.threshold':'C','achievements.display':'compact','achievements.limit':10,'achievements.only':'worker,polyglot,contributor,forker,developer,deployer,member,reviewer,maintainer,inspirer','achievements.ignored':'manager'}],
 ];
 const outputs = [];
 for (const [file,options] of jobs) {
@@ -63,6 +63,10 @@ for (const [file,options] of jobs) {
   // Metrics labels the authenticated repository total as public even when it
   // includes private repositories. Keep the count, correct the label.
   const rendered = result.rendered
+    // Spread the curated badges across the desktop row instead of clustering left.
+    .replace('</style>', file === 'achievements.svg'
+      ? '.achievements.compact{width:100%;justify-content:space-between;flex-wrap:nowrap}</style>'
+      : '</style>')
     .replace(/Published (\d+) public repositories/g,'Created $1 repositories')
     .replace(/<svg\b[^>]*>/, tag => {
       // Keep foreignObject layout at its generated width when GitHub scales

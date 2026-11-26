@@ -17,8 +17,11 @@ download is required. The script reads the existing CLI credential in memory;
 do not put a token in this repository or commit generation logs.
 
 `refresh-metrics.mjs` generates the calendar, issue/PR and language charts,
-and seven compact, horizontally arranged achievements (rank B or above).
-Achievements use the wide layout and span the README width. It fetches repository data
+and ten curated compact achievements (rank C or above): Worker, Polyglot,
+Contributor, Forker, Developer, Deployer, Member, Reviewer, Maintainer, and Inspirer.
+Achievements use the wide layout with evenly spaced badges in one desktop row.
+The selection emphasizes development activity rather than stars given or follows.
+It fetches repository data
 in smaller pages, works around Metrics v3.34's pagination issue, and excludes
 the Manager achievement because GitHub's Classic Projects API was retired.
 The display name is consistently rendered as Hosi121.
