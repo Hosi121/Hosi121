@@ -17,7 +17,8 @@ download is required. The script reads the existing CLI credential in memory;
 do not put a token in this repository or commit generation logs.
 
 `refresh-metrics.mjs` generates the calendar, issue/PR and language charts,
-and seven detailed achievements (rank B or above). It fetches repository data
+and seven compact, horizontally arranged achievements (rank B or above).
+Achievements use the wide layout and span the README width. It fetches repository data
 in smaller pages, works around Metrics v3.34's pagination issue, and excludes
 the Manager achievement because GitHub's Classic Projects API was retired.
 The display name is consistently rendered as Hosi121.
@@ -26,8 +27,6 @@ Counts reflect the API data available to the authenticated account, including
 accessible private repository aggregates; they are not public-only totals.
 Repository names from private projects are not intentionally displayed.
 
-The three linked repository introductions are separately maintained SVGs with
-transparent backgrounds. Their language labels, stars, forks, and licenses
-are snapshots; refresh these from the repository APIs when updating them.
-Check their text and layout, as well as the generated SVGs, before committing
-and pushing a refresh.
+The repository introduction SVGs are no longer embedded in the README;
+project links remain in its Projects section. Check the generated SVGs for
+clipping and layout before committing and pushing a refresh.

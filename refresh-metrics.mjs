@@ -52,7 +52,7 @@ conf.settings.optimize = true;
 const jobs = [
   ['iso_calender.svg',{isocalendar:true,'isocalendar.duration':'half-year'}],
   ['issue_pr_lang.svg',{followup:true,languages:true,'languages.limit':8}],
-  ['achievements.svg',{achievements:true,'achievements.threshold':'B','achievements.display':'detailed','achievements.limit':7,'achievements.ignored':'manager'}],
+  ['achievements.svg',{achievements:true,'config.display':'large','achievements.threshold':'B','achievements.display':'compact','achievements.limit':7,'achievements.ignored':'manager'}],
 ];
 const outputs = [];
 for (const [file,options] of jobs) {
